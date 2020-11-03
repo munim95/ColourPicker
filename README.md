@@ -5,4 +5,10 @@ Quick And Easy Colour Picker For Android!
 
 Preview
 
-<img src="https://github.com/munim95/ColourPicker/blob/master/Screenshot_1604419748.png" alt="alt text" width="300" height="600"> <img src="https://github.com/munim95/ColourPicker/blob/master/Screenshot_1604420149.png" alt="alt text" width="300" height="600">
+Hue Slider                 |  Saturation Adjustment
+:-------------------------:|:-------------------------:
+<img src="https://github.com/munim95/ColourPicker/blob/master/giffy1.gif" alt="alt text" width="300" height="600">  |  <img src="https://github.com/munim95/ColourPicker/blob/master/giffy2.gif" alt="alt text" width="300" height="600">
+
+Hex Codes                  |  Hex Error Checking
+:-------------------------:|:-------------------------:
+<img src="https://github.com/munim95/ColourPicker/blob/master/giffy3.gif" alt="alt text" width="300" height="600"> | <img src="https://github.com/munim95/ColourPicker/blob/master/giffy4.gif" alt="alt text" width="300" height="600">
