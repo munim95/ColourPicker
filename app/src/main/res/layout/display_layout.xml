@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+    <com.rigid.colourpicker.HueDisplaySurfaceView
+        android:id="@+id/huedisplay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/picker_mask"
+        android:layout_weight="0.3"/>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/border"
+        android:layout_weight="0.7">
+        <com.rigid.colourpicker.UserColourPreview
+            android:id="@+id/colourpreview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/borderWidth"/>
+    </FrameLayout>
+
+</LinearLayout>
