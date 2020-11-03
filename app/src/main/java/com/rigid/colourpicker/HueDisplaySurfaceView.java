@@ -107,7 +107,7 @@ public class HueDisplaySurfaceView extends SurfaceView implements Runnable, HueC
         surfaceRect =new RectF(0,0,w,h);
         radius=Math.min(w,h)*0.05f;
         x=w;
-        y=h;
+        y=0;
         hexText=((Activity)getContext()).findViewById(R.id.hexvaluetext);
         hexText.setText(getContext().getString(R.string.hexString,Integer.toHexString(userSelectedColour).substring(2)));
         userColourPreviewInterface.onChanged(userSelectedColour);
