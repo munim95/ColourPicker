@@ -1,5 +1,5 @@
 # ColourPicker
-Quick And Easy Colour Picker For Android!
+Quick And Easy Raw Colour Picker For Android!
 
 *OPEN FOR IMPROVEMENTS/NEW FEATURES*
 
